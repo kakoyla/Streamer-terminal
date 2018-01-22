@@ -1,0 +1,11 @@
+{
+  "name": "streamer",
+  "version": "1.0.0",
+  "description": "streams transaction stream in terminal",
+  "main": "streamer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kakoyla",
+  "license": "ISC"
+}
