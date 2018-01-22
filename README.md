@@ -12,7 +12,7 @@ plays a sound for:
   2.) when payments under 100k xrp or non xrp hit (line 416)   
   3.) when payments over 100k xrp hit (line 316)   
   
-  you can change these, just add a new sound file to ../home/x/Ripple/Streamer-Node/node_modules/sfx/sounds/
+  you can change these, just add a new sound file to ../Streamer-Node/node_modules/sfx/sounds/
   and update the sfx.SOUNDNAME()
   
   also able to pull ripple trade names but i was never able to get the timing down, so its not active (line 387)
