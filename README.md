@@ -6,7 +6,8 @@ creates a log file for any payments over 100k xrp (lgPymtlog.txt) line 361
 
 creates a log file for any txs that arent payments (txlog.txt) line 64
 
-plays a sound for:
+plays a sound for:                                
+
   1.) when txs that arent payments hit (line 46)   
   2.) when payments under 100k xrp or non xrp hit (line 416)   
   3.) when payments over 100k xrp hit (line 316)   
