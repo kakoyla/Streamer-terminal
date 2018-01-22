@@ -19,3 +19,4 @@ plays a sound for:
   npm install 
   launch--> node streamer.js
   quit --> ctrl c
+
