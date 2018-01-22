@@ -17,7 +17,7 @@ plays a sound for:
   
   also able to pull ripple trade names but i was never able to get the timing down, so its not active (line 387)
   
-  npm install 
+  npm install                                                   
   launch--> node streamer.js                                       
   quit --> ctrl c
 
